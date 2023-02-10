@@ -1,0 +1,35 @@
+* {
+  color: aliceblue;
+  padding: 0;
+  margin: 0;
+}
+.content {
+  background: #778beb;
+  object-fit: fill;
+  height: 100%;
+  width: 100%;
+}
+.list-data {
+  list-style: none;
+}
+.list {
+  background-color: #546de5;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 20px;
+}
+
+.btn {
+  width: 20rem;
+  color: #5352ed;
+  height: 2rem;
+  background-color: #2ed573;
+  border-style: none;
+  border-radius: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
